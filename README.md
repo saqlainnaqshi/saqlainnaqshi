@@ -29,6 +29,6 @@ An individual who is honest and trustworthy and who has strong communication ski
 
 <a href="http://www.github.com/saqlainnaqshi"><img src="https://github-readme-stats.vercel.app/api?username=saqlainnaqshi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="saqlainnaqshi's GitHub stats" /></a>
 
-<a href="http://www.github.com/saqlainnaqshi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainnaqshi&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/saqlainnaqshi" target="_blank" rel="noreferrer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainnaqshi&amp;stroke=000000&amp;background=ffffff&amp;ring=3382ed&amp;fire=3382ed&amp;currStreakNum=000000&amp;currStreakLabel=3382ed&amp;sideNums=000000&amp;sideLabels=000000&amp;dates=000000&amp;hide_border=true" class="object-scale-down"></a>
 
 <a href="https://github.com/saqlainnaqshi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqlainnaqshi&langs_count=10&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
